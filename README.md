@@ -15,12 +15,12 @@ Node初学者入门，一本全面的NodeJS教程
 >
   `mongod --dbpath /Users/zpq/nodetest/data`
 >连接数据库，显示增删用户信息功能
->![MacDown Screenshot](https://github.com/amberenjoy/Node.js/blob/master/nodetest/public/images/1.png)
+>![MacDown Screenshot](https://github.com/amberenjoy/Node-practice.js/blob/master/nodetest/public/images/1.png)
 
 1. nodetest1
 >增删用户功能，数据库mongodb,monk<br/>
->![MacDown Screenshot](https://github.com/amberenjoy/Node.js/blob/master/nodetest1/img/1.png)
-![MacDown Screenshot](https://github.com/amberenjoy/Node.js/blob/master/nodetest1/img/2.png)
+>![MacDown Screenshot](https://github.com/amberenjoy/Node-practice.js/blob/master/nodetest1/img/1.png)
+![MacDown Screenshot](https://github.com/amberenjoy/Node-practice.js/blob/master/nodetest1/img/2.png)
 
 1. microblog
->![MacDown Screenshot](https://github.com/amberenjoy/Node.js/blob/master/microblog/img.png)
+>![MacDown Screenshot](https://github.com/amberenjoy/Node-practice.js/blob/master/microblog/img.png)
