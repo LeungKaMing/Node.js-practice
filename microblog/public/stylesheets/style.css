@@ -1,0 +1,27 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.jumbotron{
+    margin-top: 20px;
+}
+
+.form-center{
+    margin: 40px auto;
+    padding: 30px;
+    width: 55%;
+    border-radius: 10px;
+    background: rgba(0,0,0,0.08);
+}
+.form-group label{
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+.form-actions button{
+    float: right;
+}

@@ -1,0 +1,17 @@
+/*
+* @Author: amber
+* @Date:   2016-12-01 10:25:30
+* @Last Modified by:   amber
+* @Last Modified time: 2016-12-01 10:28:42
+*/
+
+'use strict';
+var fs = require("fs");
+var zlib = require('zlib');
+
+// 解压 input.txt.gz 文件为 input.txt
+fs.createReadStream('input.txt.gz')
+  .pipe(zlib.createGunzip())
+  .pipe(fs.createWriteStream('input1.txt'));
+
+console.log("文件解压完成。");
